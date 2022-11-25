@@ -1,3 +1,5 @@
+Read.me em construção!
+
 <H1> Games e apps store </h1>
 
 <p> Página criada para aprimorar a experiência com CSS Grid e posicionamento dos itens. </p>
