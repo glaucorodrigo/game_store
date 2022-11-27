@@ -11,7 +11,7 @@ Read.me em construção!
 <li>CSS</li>
 </ul>
 
-Deploy:
+<h2>Deploy:</h2>
 
 https://merry-llama-a25de9.netlify.app
 
