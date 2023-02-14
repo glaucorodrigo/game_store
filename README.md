@@ -2,7 +2,9 @@ Read.me em construção!
 
 <H1> Games e apps store </h1>
 
-<p> Página criada para aprimorar a experiência com CSS Grid e posicionamento dos itens. </p>
+<p> Página criada para aprimorar a experiência com CSS Grid e posicionamento dos itens. 
+Trabalha a questão da proporção dos itens, escala das imagens para todo tipo de tela e dispositivo.
+Responsividade trabalhada para tablets, celulares e computadores.</p>
 
 <h2> Tecnologias utilizadas:</h2>
 
